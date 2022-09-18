@@ -21,7 +21,7 @@
 |:--|
 | Kaggle |
 | [01. Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project) |
-| Github |
+| GitHub |
 | [01. Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project) |
 | [99. draft ](./draft ) | [](#) |
 
