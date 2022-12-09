@@ -14,7 +14,7 @@
 
 <h3 align='right'>
   
-[12P-Data-Analysis-Projects-with-Python](https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md)
+[12P Data Analysis Projects with Python](https://github.com/celik-muhammed/12P-Data-Analysis-Projects-with-Python/blob/master/README.md)
 </h3>
   
   
